@@ -2,7 +2,7 @@
 This is a sample that shows how to create and login to an iOS application using AWS Cognito Identity Pools
 
 A full explanation of this sample can be found on my blog:
-https://wordpress.com/post/stephenlippens.wordpress.com/374
+https://stephenlippens.wordpress.com/2017/07/10/part-leveraging-aws-for-mobile-development-using-cognito-for-account-creation-and-authentication/
 
 Steps to configure:
 
@@ -11,7 +11,7 @@ Steps to configure:
 'pod install'
 
 2) Follow steps on how to configure the Cognito User Pool and Identity pool on my blog:
-https://wordpress.com/post/stephenlippens.wordpress.com/374
+https://stephenlippens.wordpress.com/2017/07/10/part-leveraging-aws-for-mobile-development-using-cognito-for-account-creation-and-authentication/
 
 3) Open the Constants.m file and provide:
 
